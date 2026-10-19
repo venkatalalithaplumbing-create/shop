@@ -11,6 +11,7 @@
         padding:12px 5px;
         box-sizing:border-box;
         margin:0;
+        background-color:red:
     }
     .sub{
         display:flex;
@@ -31,6 +32,7 @@
         white-space:nowrap;
         text-decoration:none;
         display:inline-block;
+        color:white;
     }
     .sub nav{
         font-size:20px;
