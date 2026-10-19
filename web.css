@@ -46,8 +46,35 @@ img{
 
 }
 .navbar{
-    
-}
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        min-height: 60px;
+        padding: 8px 10px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        gap: 8px;
+        box-sizing: border-box;
+        overflow: visible;
+    }
+
+    .navbar a {
+        font-size: 16px;
+        margin: 0;
+        padding: 5px;
+        white-space: nowrap;
+    }
+
+    .navbar img {
+        width: 32px;
+        height: 32px;
+        object-fit: contain;
+    }
+
 .homepage{
     top:50%;
     position:relative;
