@@ -40,6 +40,8 @@ img{
     justify-content: center;
     align-items: center;
     margin:0;
+    width:auto;
+     overflow: hidden;
 
 
 }
@@ -51,6 +53,8 @@ img{
     font-size: 50px;
     width:auto;
     position:fixed;
+     overflow: hidden;
+    
 }
 .homepage{
     top:50%;
