@@ -49,6 +49,8 @@ img{
     align-items: center;
     gap:90px;
     font-size: 50px;
+    width:auto;
+    position:fixed;
 }
 .homepage{
     top:50%;
