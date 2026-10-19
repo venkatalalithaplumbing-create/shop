@@ -134,10 +134,21 @@
     font-size: bold;
     font-color:black;
 }
+    .home{
+     color:aliceblue;
+    border:2px solid;
+    width:80%;
+     height:40%;   
+    padding:8px;
+    border-radius: 20px;
+    background-color:rgb(139, 173, 218);
+    box-sizing: border-box;
+}
     .plumbing{
     color:aliceblue;
     border:2px solid;
-    width:20%;
+    width:80%;
+    height:40%;      
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
@@ -147,7 +158,8 @@
 .sanitary{
      color:aliceblue;
     border:2px solid;
-    width:20%;
+    width:80%;
+    height:40%;  
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
@@ -156,7 +168,8 @@
 .contact{
     color:rgb(255, 244, 240);
     border:7px solid;
-    width:20%;
+    width:80%;
+    height:40%;  
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
@@ -173,7 +186,8 @@
     margin:10px 0;
     top:-98px;
     width:100%;
-    max-width:100%;
+    max-width:120%;
+    height:100px;
     top:0;
     left:-20px;
     box-sizing:border-box;
