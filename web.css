@@ -6,6 +6,13 @@ img{
 }
 /* MOBILE only*/
 @media screen and (max-width:768px){
+    .para{
+        font-size:30px;
+        line-height:1.2;
+        text-align:center;
+        overflow-wrap:break-word;
+    }
+        
 .menu{
     position:fixed;
     top:0;
@@ -49,28 +56,29 @@ img{
         display:flex;
     flex-display:row;
     flex-wrap:nowrap;
-        top: 0;
-        left: 0;
-        width:100%;
-        height:60px;
-    padding:0 8px;
-    gap:10px;
-        min-height:60px;
-        padding:8px 10px;
-        display:flex;
-        align-items:center;
-        justify-content:space-between;
-        gap: 8px;
+    top: 0;
+    left: 0;
+    width:80%;
+    height:40px;
+    padding:5px 8px;
+    gap:4px;
+    min-height:60px;
+    padding:8px 10px;
+    display:flex;
+    align-items:center;
+        justify-content:space-around;
+    
         box-sizing:border-box;
         overflow-x:auto;
+    border-radius:0;
     }
 
     .navbar a {
         font-size:14px;
         margin:0;
-        padding:4px 2px;
+        padding:4px;
         white-space: nowrap;
-        flex-shrink:1;
+        flex-shrink:0;
     }
 
     .navbar img {
