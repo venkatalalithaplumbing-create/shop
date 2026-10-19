@@ -12,6 +12,7 @@
         box-sizing:border-box;
         margin:0;
         background-color:red:
+        position:fixed;
     }
     .sub{
         display:flex;
@@ -39,7 +40,60 @@
     }
     .para{
         font-size:10px;
+        color:purple;
     }
+    .slider{
+    width:100%;
+    height:400px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 90px;
+}
+.slides{
+    display: flex;
+    width:100%;
+    height:100%;
+    animation: autoSlide 10s infinite;
+}
+.slide{
+
+    width:100%;
+    height:100%;
+    flex:0 0 100%;
+    border-radius: 30px;
+
+}
+.slide img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+}
+
+
+
+@keyframes autoSlide{
+    0%,20%{
+        transform: translateX(0);
+    }
+    25%,40%{
+        transform: translateX(-25%);
+    }
+    50%,70%{
+        transform: translateX(-50%);
+    }
+    75%,90%{
+        transform: translateX(-75%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+@media(max-width:600px){
+    .slider{
+        height:230px;
+    }
+}
     
         
 }
