@@ -39,6 +39,16 @@ img{
         object-fit:contain;
         flex-shrink:0;
     }
+    .home{
+    border:2px solid;
+    width:40%;
+    padding:8px;
+    border-radius: 20px;
+    background-color:rgb(139, 173, 218);
+    box-sizing: border-box;
+    }
 
-  
+
+
+        
 }
