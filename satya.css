@@ -22,7 +22,7 @@
         15%{background-color:blue;}
         35%{background-color:skyblue;}
         55%{background-color:pink;}
-        75%{background-color:red;}
+        75%{background-color:white;}
         95%{background-color:orange;}
         100%{background-color:lightgreen;}
     } 
@@ -161,12 +161,13 @@
 }
 .contact-info{
     position:fixed;
-    align-items: center;
-    left:20%;
-    top:60%;
-    width:50%;
-    height:120px;
-    padding:20px;
+    align-items:center;
+    text-align:center;
+    left:23%;
+    top:50%;
+    width:75%;
+    height:50%;
+    padding:10px;
     text-align: center;
     background:rgba(255,255,255,0.15);
     backdrop-filter:blur(12px);
@@ -175,8 +176,8 @@
     border-radius: 20px;
     box-shadow: 0 10px 34px rgba(0,7,8,05);
     color:white;
-    font-size:20px;
-    font-size: bold;
+    font-size:10px;
+    font-size:bold;
     
 }
     .home{
@@ -214,20 +215,20 @@
 .contact{
     color:rgb(255, 244, 240);
     border:7px solid;
-    width:65px;
+    width:70px;
     height:10%;   
     padding:8px;
     border-radius: 20px;
+    box-sizing: border-box;
     background-color:rgb(139, 173, 218);
 }
 .ourproducts{
     position:relative;
     text-align:center;
-    font-size:15px;
+    font-size:10px;
     font-weight: bold;
     background-color:purple;
     color:white;
-    border-radius:10px;
     margin:0;
     top:-98px;
     width:100%;
@@ -238,6 +239,11 @@
     padding:5px 3px;
     font-size:55px; 
 }
+    
+.list{
+    text-align:center;
+}
+    
    
 
 
