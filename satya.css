@@ -2,8 +2,10 @@
 *{
     box-sizing: border-box;
 }
- .banner img{
-        max-width: 100%;
+    
+  img{        
+    
+    max-width: 100%;
         
 }
     .chat{
@@ -88,8 +90,7 @@
         font-size:10px;
         color:purple;
     }
-    .slider{
-    top:0;    
+    .slider{   
     width:100%;
     height:400px;
     overflow: hidden;
