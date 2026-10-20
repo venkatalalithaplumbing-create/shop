@@ -9,6 +9,7 @@
 }
     .body9{
         background-color:purple:
+    }
     .navbar{
         width:100%;
         min-height:55px;
@@ -129,7 +130,7 @@
     position:fixed;
     align-items: center;
     left:300px;
-    top:-800px;
+    top:-1200px;
     width:800px;
     height: 250px;
     padding:30px;
