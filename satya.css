@@ -30,7 +30,7 @@
         text-align:center;
     }
     .sub a{
-        font-size:30px;
+        font-size:15px;
         white-space:nowrap;
         text-decoration:none;
         display:inline-block;
@@ -38,7 +38,8 @@
         border:black;
     }
     .sub nav{
-        font-size:30px;
+        font-size:15px;
+        font-wheight:bold;
     }
     .homepage{
         top:-10px;
@@ -143,8 +144,8 @@
     .home{
      color:aliceblue;
     border:2px solid;
-    width:50px;
-     height:10%;   
+    width:55px;
+    height:10%;   
     padding:8px;
     border-radius: 30px;
     background-color:rgb(139, 173, 218);
@@ -153,8 +154,8 @@
     .plumbing{
     color:aliceblue;
     border:2px solid;
-    width:80%;
-    height:40%;      
+    width:55px;
+    height:10%;   
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
@@ -162,10 +163,11 @@
 
 }
 .sanitary{
-     color:aliceblue;
+    
+    color:aliceblue;
     border:2px solid;
-    width:80%;
-    height:40%;  
+    width:55px;
+    height:10%;   
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
@@ -174,8 +176,8 @@
 .contact{
     color:rgb(255, 244, 240);
     border:7px solid;
-    width:80%;
-    height:40%;  
+    width:55px;
+    height:10%;   
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
