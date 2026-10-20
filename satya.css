@@ -41,6 +41,11 @@
     .sub nav{
         font-size:30px;
     }
+    .homepage{
+        top:-10px;
+    }
+
+    
     .para{
         font-size:10px;
         color:purple;
