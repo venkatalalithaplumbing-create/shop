@@ -193,21 +193,10 @@
     top:0;
     left:-20px;
     box-sizing:border-box;
-    padding:12px 5px;
+    padding:16px 2px;
     font-size:25px; 
-    animation:colorChange 5s infinite alternate;  
 }
-    @keyframes colorChange{
-        0%{background-color:purple;}
-        15%{background-color:blue;}
-        35%{background-color:skyblue;}
-        55%{background-color:pink;}
-        75%{background-color:red;}
-        95%{background-color:orange;}
-        100%{background-color:darkblue;}
-    }     
-     
-
+   
 
 
 
