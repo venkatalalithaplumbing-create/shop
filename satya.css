@@ -20,7 +20,7 @@
     }
 
     .navbar{
-        width:100%;
+        width:120%;
         min-height:55px;
         height:aut;
         padding:8px 10px;
@@ -140,8 +140,8 @@
 .contact-info{
     position:fixed;
     align-items: center;
-    left:300px;
-    top:200px;
+    left:100px;
+    top:400px;
     width:800px;
     height: 250px;
     padding:30px;
