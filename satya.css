@@ -25,7 +25,6 @@
         padding:8px 10px;
         box-sizing:border-box;
         margin:0;
-        margin-left:0;
         background-color:white;
         position:fixed;
         top:0;
@@ -36,7 +35,7 @@
         flex-direction:row;
         justify-content:space-around;
         align-items:center;
-        gap:6px;
+        gap:5px;
         margin:0;
     }
     .sub> div{
