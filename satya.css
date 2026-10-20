@@ -61,12 +61,12 @@
         height:auto;
         position:relative;
         object-fit:cover;
+        margin-top:15px;
     }
     .homepage img{
         display:block;
         width:100%;
         height:auto;
-        top:-20px;
         object-fit:cover;
     }
 
