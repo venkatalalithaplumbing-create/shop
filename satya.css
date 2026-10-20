@@ -2,7 +2,7 @@
 *{
     box-sizing: border-box;
 }
-    img{
+ .banner img{
         max-width: 100%;
         
 }
@@ -231,14 +231,12 @@ images {
    
 }
 .ourproducts{
-    font-size:10px;
+    font-size:15px;
     color:rgb(255, 244, 240);
     border:7px solid;
     width:100%;
-    height:10px;   
+    height:15px;   
     padding:8px;
-    border-radius: 20px;
-    box-sizing:border-box;
     border-color:black;
     background-color:rgb(133, 32, 176);
     text-align:center;
