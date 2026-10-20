@@ -58,8 +58,16 @@
         font-wheight:bold;
     }
     .homepage{
+        width:100%;
+        height:auto;
         position:relative;
-        top:-800px;
+        object-fit:cover;
+    }
+    .homepage img{
+        display:block;
+        width:100%;
+        height:auto;
+        object-fit:cover;
     }
 
     
