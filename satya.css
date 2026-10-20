@@ -188,23 +188,22 @@
 
 }
 .ourproducts{
-    position: relative;
+    position:relative;
     text-align: center;
-    font-size:50px;
-    font-weight: bolder;
-    background-color: #9c13ca;
+    font-size:20px;
+    font-weight: bold;
+    background-color:gold;
     color:white;
-    border-radius:black;
-    margin:10px 0;
+    border-radius:10px;
+    margin:0;
     top:-98px;
     width:100%;
     max-width:120%;
-    height:100px;
+    height:50px;
     top:0;
-    left:-20px;
     box-sizing:border-box;
-    padding:16px 2px;
-    font-size:25px; 
+    padding:10px 3px;
+    font-size:15px; 
 }
    
 
