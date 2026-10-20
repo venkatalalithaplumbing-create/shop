@@ -7,9 +7,19 @@
         max-width: 100%;
         
 }
-    .body9{
-        background-color:purple:
+    .chat{
+    background: rgb(232, 226, 234);
+    color:rgb(59, 5, 240);
+    border-radius: 20px;
+    padding:10px;
+    border-color: azure;
+    font-weight: bold;
     }
+    .body9{
+    background-color: #810a8b;
+    overflow: hidden;
+    }
+
     .navbar{
         width:100%;
         min-height:55px;
@@ -130,7 +140,7 @@
     position:fixed;
     align-items: center;
     left:300px;
-    top:-1200px;
+    top:-500px;
     width:800px;
     height: 250px;
     padding:30px;
