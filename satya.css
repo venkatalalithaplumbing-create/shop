@@ -126,10 +126,10 @@
     display:block;
 }
 .contact-info{
-    position: relative;
+    position:fixed;
     align-items: center;
     left:300px;
-    top:-100px;
+    top:-800px;
     width:800px;
     height: 250px;
     padding:30px;
