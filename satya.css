@@ -14,9 +14,18 @@
     border-color:azure;
     font-weight:bold;
     position:relative;
-    top:200px;    
-        
-    }
+    top:200px; 
+    animation:colorChange 5s infinite alternate;  
+}
+    @keyframes colorChange{
+        0%{background-color:gold;}
+        15%{background-color:blue;}
+        35%{background-color:skyblue;}
+        55%{background-color:pink;}
+        75%{background-color:red;}
+        95%{background-color:orange;}
+        100%{background-color:lightgreen;}
+    } 
     .body9{
     background-color: #810a8b;
     overflow: hidden;
@@ -153,10 +162,10 @@
 .contact-info{
     position:fixed;
     align-items: center;
-    left:120px;
-    top:400px;
-    width:90px;
-    height: 250px;
+    left:50%;
+    top:60%;
+    width:70%;
+    height:12px;
     padding:20px;
     text-align: center;
     background:rgba(255,255,255,0.15);
@@ -166,7 +175,7 @@
     border-radius: 20px;
     box-shadow: 0 10px 34px rgba(0,7,8,05);
     color:white;
-    font-size:30px;
+    font-size:20px;
     font-size: bold;
     
 }
@@ -210,17 +219,7 @@
     padding:8px;
     border-radius: 20px;
     background-color:rgb(139, 173, 218);
-    animation:colorChange 5s infinite alternate;  
 }
-    @keyframes colorChange{
-        0%{background-color:purple;}
-        15%{background-color:blue;}
-        35%{background-color:skyblue;}
-        55%{background-color:pink;}
-        75%{background-color:red;}
-        95%{background-color:orange;}
-        100%{background-color:lightgreen;}
-    }    
 .ourproducts{
     position:relative;
     text-align:center;
