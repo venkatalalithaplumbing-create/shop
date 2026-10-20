@@ -45,8 +45,8 @@
         text-align:center;
     }
     .sub a{
-        font-size:10px;
-        gap:10px;
+        font-size:15px;
+        gap:5px;
         white-space:nowrap;
         text-decoration:none;
         display:inline-block;
@@ -54,7 +54,7 @@
         border:black;
     }
     .sub nav{
-        font-size:10px;
+        font-size:15px;
         font-wheight:bold;
     }
     .homepage{
