@@ -32,7 +32,7 @@
         text-align:center;
     }
     .sub a{
-        font-size:5px;
+        font-size:10px;
         white-space:nowrap;
         text-decoration:none;
         display:inline-block;
@@ -44,7 +44,7 @@
         font-wheight:bold;
     }
     .homepage{
-        top:-300px;
+        top:-800px;
     }
 
     
