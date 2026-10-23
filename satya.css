@@ -371,8 +371,8 @@ images {
     position:fixed;
     align-items:center;
     text-align:center;
-    left:10%;
-    top:30%;
+    left:30%;
+    top:25%;
     width:30%;
     height:60%;
     padding:10px;
@@ -384,7 +384,7 @@ images {
     border-radius: 20px;
     box-shadow: 0 10px 34px rgba(0,7,8,05);
     color:white;
-    font-size:20px;
+    font-size:25px;
     font-size:bold;
     
 }
