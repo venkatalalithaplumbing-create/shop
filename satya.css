@@ -75,7 +75,7 @@
         width:100%;
         height:auto;
         position:relative;
-        margin-top:50px;
+        margin-top:53px;
     }
     .homepage img{
         display:block;
@@ -95,7 +95,7 @@
     height:400px;
     overflow: hidden;
     position: relative;
-    margin-top:50px;
+    margin-top:55px;
 }
 .slides{
     display: flex;
