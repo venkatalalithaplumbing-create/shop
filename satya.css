@@ -236,11 +236,11 @@ images {
     text-align:center;
 }
     .ourproducts{
-        text-align:center;
+        text-items:center;
         color:green;
-        border-color:lightgreen;
+        border-color:black;
         font-weight:bold;
-        font-size:8px;
+        font-size:15px;
         position:fixed;
     }
     
