@@ -235,6 +235,14 @@ images {
 .w{
     text-align:center;
 }
+    .ourproducts{
+        text-align:center;
+        color:green;
+        border-color:lightgreen;
+        font-weight:bold;
+        font-size:8px;
+        position:fixed;
+    }
     
    
 
