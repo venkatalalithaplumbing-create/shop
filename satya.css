@@ -373,8 +373,8 @@ images {
     text-align:center;
     left:10%;
     top:30%;
-    width:50%;
-    height:40%;
+    width:30%;
+    height:60%;
     padding:10px;
     text-align: center;
     background:rgba(255,255,255,0.15);
@@ -384,7 +384,7 @@ images {
     border-radius: 20px;
     box-shadow: 0 10px 34px rgba(0,7,8,05);
     color:white;
-    font-size:10px;
+    font-size:20px;
     font-size:bold;
     
 }
