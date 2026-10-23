@@ -75,7 +75,7 @@
         width:100%;
         height:auto;
         position:relative;
-        margin-top:80px;
+        margin-top:60px;
     }
     .homepage img{
         display:block;
@@ -95,7 +95,7 @@
     height:400px;
     overflow: hidden;
     position: relative;
-    margin-top: 90px;
+    margin-top:60px;
 }
 .slides{
     display: flex;
@@ -231,20 +231,7 @@ images {
     background-color:rgb(139, 173, 218);
     box-sizing: border-box;
    
-}
-.ourproducts{
-    text-align:center;
-    color:black;
-    border:2px solid;
-    padding:2px;
-    background-color:gold;
-    box-sizing: border-box;
-    width:100%;
-    height:10px;
-    
-    
-}
-    
+}    
 .w{
     text-align:center;
 }
